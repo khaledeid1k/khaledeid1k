@@ -7,23 +7,13 @@
 
 - 🔭 I’m currently working on **N/A**
 
-- 🌱 I’m currently learning **N/A**
+- 🌱 I’m currently learning on the Chance
 
-- 👯 I’m looking to collaborate on **N/A**
-
-- 🤝 I’m looking for help with **N/A**
-
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-
-- 📝 I regularly write articles on [N/A](N/A)
-
-- 💬 Ask me about **N/A**
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **khaled.eid1k1k@gmail.com**
 
 - 📄 Know about my experiences [N/A](N/A)
-
-- ⚡ Fun fact **N/A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
