@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledeid1k" alt="khaledeid1k" /></a> </p>
 
-- 🔭 I’m currently working on **N/A**
+- 🔭 I’m currently working on **the Chance**
 
 - 🌱 I’m currently learning on the Chance
 
