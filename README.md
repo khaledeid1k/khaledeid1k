@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **the Chance**
 
-- 🌱 I’m currently learning on the Chance
+- 🌱 I’m currently learning on ITI
 
 - 👨‍💻 All of my projects are available here
 
